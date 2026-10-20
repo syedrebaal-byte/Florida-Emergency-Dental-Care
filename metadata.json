@@ -1,0 +1,6 @@
+{
+  "name": "Florida Emergency Dental Care",
+  "description": "24/7 urgent and restorative dental care in Orlando, Florida by Dr. Anthony Oswick & Dr. Maria Kashlak. Same-day relief, extractions, root canals, and tooth repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
